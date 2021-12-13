@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "title": "8-bits",
+        "category":4,
+        "img":"https://i.ytimg.com/vi/bQpX4apsamc/maxresdefault.jpg",
+        "description": "Get ready with 'Clip Joint Calamity' \n https://www.youtube.com/watch?v=bQpX4apsamc&t=36s"
+    },
+    {
+        "id": 1,
+        "title": "EDM",
+        "category":2,
+        "img":"https://www.game-ost.ru/static/covers_soundtracks/2/9/290080_734108.jpg",
+        "description": "Get in style with 1010 \n https://www.youtube.com/watch?v=YF6as3TRMnw"
+    },
+    {
+        "id": 2,
+        "title": "Rock n Roll",
+        "category":3,
+        "img":"https://i.ytimg.com/vi/rSSFtha4zIE/maxresdefault.jpg",
+        "description": "It's up to yuo and 'Battle for Award 42' \n https://www.youtube.com/watch?v=rSSFtha4zIE"
+    },
+    {
+        "id": 3,
+        "title": "Вечерний поезд",
+        "category":1,
+        "img":"https://aif-s3.aif.ru/images/015/260/41bef295471813647d577b065751d93c.jpg",
+        "description": "Get relax in our train Ep.1 \n https://www.youtube.com/watch?v=SiLVhVZKaOw"
+    },
+    {
+        "id": 4,
+        "title": "Covers",
+        "category":5,
+        "img":"https://i.ytimg.com/vi/8dtJ-DhXaNk/maxresdefault.jpg",
+        "description": "Can you feel the power of the ocean? \n https://www.youtube.com/watch?v=8dtJ-DhXaNk"
+    },
+    {
+        "id": 5,
+        "title": "Rock n Roll",
+        "category":3,
+        "img":"https://i1.sndcdn.com/artworks-S9UweOsYaEERRJOK-UHHO7A-t500x500.jpg",
+        "description": "vs. Tatiana (Rock version) \n https://www.youtube.com/watch?v=UNRJ1KH0uf4"
+    },
+    {
+        "id": 6,
+        "title": "8-bits",
+        "category":4,
+        "img":"https://i.ytimg.com/vi/5bn3Jmvep1k/maxresdefault.jpg",
+        "description": "8-Bit Fantasy & Adventure Music \n https://www.youtube.com/watch?v=5bn3Jmvep1k"
+    },
+	{
+        "id": 7,
+        "title": "Covers",
+        "category":5,
+        "img":"https://i.ytimg.com/vi/GZo8liuCZZo/maxresdefault.jpg",
+        "description": "Have you ever watch 'Ratatouille' from Disney Pixar's? \n https://www.youtube.com/watch?v=GZo8liuCZZo"
+    },
+    {
+        "id": 8,
+        "title": "EDM",
+        "category":2,
+        "img":"https://static.wikia.nocookie.net/nsr-wikia/images/9/98/Yinu_album_cover.jpg/revision/latest/scale-to-width-down/2000?cb=20200812151605",
+        "description": "What if PIANO was a part of EDM-style? \n https://www.youtube.com/watch?v=RzRHcN9HLYc"
+    },
+    {
+        "id": 9,
+        "title": "Вечерний поезд",
+        "category":1,
+        "img":"https://aif-s3.aif.ru/images/015/260/41bef295471813647d577b065751d93c.jpg",
+        "description": "Get relax in our train Ep.2 \n https://www.youtube.com/watch?v=TA4mhuFF-Go"
+    }
+]
